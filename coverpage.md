@@ -6,8 +6,8 @@
 > Open-source web-based MMORPG built in Godot.
 
 - Unique project organization
-- Don't rely on the built-in multiplayer nodes
-- Mimic typical MMO architecture
+- No Dependencies on the built-in multiplayer nodes
+- Mimics typical MMO architecture
 
 [Github](https://github.com/SlayHorizon/godot-tiny-mmo)
 [Continue](#godot-tiny-mmo)
